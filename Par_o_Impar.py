@@ -2,8 +2,8 @@
 
 num = int(input("Ingrese un numero"))
 
-def par_impar(n):
-  if n/2 == 0:
+def par_impar(a):
+  if a/2 == 0:
       return("El numero es Par")
   else:
       return("El numero es impar")
