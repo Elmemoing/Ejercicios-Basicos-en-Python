@@ -23,5 +23,3 @@ print(f"El resultado de sumar {operando1} y {operando2} es {suma}")
 print(f"El resultado de restar {operando1} y {operando2} es {resta}")
 print(f"El resultado de multiplicar {operando1} y {operando2} es {multiplicacion}")
 print(f"El resultado de dividir {operando1} y {operando2} es {division}")
-
-
